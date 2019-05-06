@@ -1,7 +1,7 @@
 100_data_raw-input/
 110_data_intermediate/
-120_data_output/
-130_plot_output/
+300_output/
+400_extras/
 .Rhistory
 .Rproj.user
 
